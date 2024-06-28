@@ -118,6 +118,12 @@
     ]
   },
 
+  "product-availability-component":{
+    "props":{
+      "minimumProductsToShow": 10
+    }
+  },
+
   "flex-layout.row#product-name": {
     "props": {
       "marginBottom": 3
